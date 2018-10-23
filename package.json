@@ -17,7 +17,7 @@
     "sass"
   ],
   "eyeglass": {
-    "name": "boostrap-reboot",
+    "name": "bootstrap-reboot",
     "exports": "eyeglass-exports.js",
     "needs": "^1.6.0"
   }

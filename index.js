@@ -1,5 +1,5 @@
 var path = require("path");
-var dir  = path.resolve(__dirname, 'node_modules/bootstrap/scss/');
+var dir  = path.resolve(__dirname, '../bootstrap/scss/bootstrap-reboot.scss');
 
 module.exports = {
   includePaths: [
