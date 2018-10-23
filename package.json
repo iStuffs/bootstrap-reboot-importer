@@ -1,0 +1,24 @@
+{
+  "name": "boostrap-reboot-importer",
+  "version": "1.0.0",
+  "description": "A eyeglass-module to easily import boostrap reboot",
+  "main": "index.js",
+  "devDependencies": {
+  },
+  "scripts": {
+  },
+  "license": "MIT",
+  "author": "iStuffs - Samuel DIDIER-LAURENT",
+  "dependencies": {
+    "bootstrap": "^4.1.3"
+  },
+  "keywords": [
+    "eyeglass-module",
+    "sass"
+  ],
+  "eyeglass": {
+    "name": "boostrap-reboot",
+    "exports": "eyeglass-exports.js",
+    "needs": "^1.6.0"
+  }
+}
