@@ -8,7 +8,7 @@
   "license": "MIT",
   "author": "iStuffs - Samuel DIDIER-LAURENT",
   "dependencies": {
-    "bootstrap": "^4.3.1"
+    "bootstrap": "^4.4.1"
   },
   "keywords": [
     "eyeglass-module",
