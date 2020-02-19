@@ -1,6 +1,6 @@
 {
   "name": "boostrap-reboot-importer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A eyeglass-module to easily import boostrap reboot",
   "main": "index.js",
   "devDependencies": {},
