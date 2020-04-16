@@ -17,6 +17,6 @@
   "eyeglass": {
     "name": "bootstrap-reboot",
     "exports": "eyeglass-exports.js",
-    "needs": "^1.6.0"
+    "needs": "^3.0.0"
   }
 }
