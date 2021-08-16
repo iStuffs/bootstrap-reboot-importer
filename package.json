@@ -8,7 +8,7 @@
   "license": "MIT",
   "author": "iStuffs - Samuel DIDIER-LAURENT",
   "dependencies": {
-    "bootstrap": "^4.4.1"
+    "bootstrap": "^5.1.0"
   },
   "keywords": [
     "eyeglass-module",
@@ -17,6 +17,6 @@
   "eyeglass": {
     "name": "bootstrap-reboot",
     "exports": "eyeglass-exports.js",
-    "needs": "^3.0.0"
+    "needs": "^3.0.3"
   }
 }
